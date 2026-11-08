@@ -1,0 +1,11 @@
+bait_uniprot;bait_gene;partner_uniprot;partner_gene;label_binds_directly_to_bait;category;comment
+P04637;TP53;Q00987;MDM2;1;binder;Well-established direct p53–MDM2 interaction
+P04637;TP53;Q09472;EP300;1;binder;Coactivator p300/CBP binds and acetylates p53
+P04637;TP53;Q12888;TP53BP1;1;binder;TP53BP1 directly binds p53
+P04637;TP53;P49841;GSK3B;1;binder;GSK3β directly interacts with p53 after DNA damage and modulates its activity.
+P04637;TP53;Q9NPI1;BRD7;1;binder;BRD7 N-terminus binds the C-terminus of TP53 and recruits EP300 to p53 target promoters.
+P04637;TP53;Q16665;HIF1A;0;non_binder;HIF-1α binds MDM2 directly
+P04637;TP53;O75792;RNASEH2A;0;non_binder;RNaseH-II (containing RNASEH2A) used as a protein that does not interact with p53 in IP controls.
+P04637;TP53;P08684;CYP3A4;0;non_binder;Drug-metabolizing P450 in ER
+P04637;TP53;P25705;ATP5F1A;0;non_binder;Mitochondrial ATP synthase subunit alpha
+P04637;TP53;P02452;COL1A1;0;non_binder;Secreted fibrillar collagen
